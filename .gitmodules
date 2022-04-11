@@ -1,0 +1,6 @@
+[submodule "musicthing-frontend"]
+	path = musicthing-frontend
+	url = https://github.com/tquang1708/musicthing-frontend
+[submodule "musicthing-backend"]
+	path = musicthing-backend
+	url = https://github.com/tquang1708/musicthing-backend
