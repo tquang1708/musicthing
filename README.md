@@ -1,6 +1,10 @@
 ## WIP senior project - Musicthing
 
-A self-hosted music streaming service built on Rust, Postgres and React. Work in progress.
+A self-hosted music streaming service built on Rust, Postgres and React. Work in progress. Note that since this Git repo points to submodules, you need to clone recursively to get both the backend and frontend repos.
+
+```
+git clone --recursive https://github.com/tquang1708/musicthing
+```
 
 ### Installation
 
